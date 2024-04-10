@@ -1,0 +1,55 @@
+*{
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+.bg-nav{
+    background-color: #3A3A3A;
+    font-size: 1.5rem;
+    opacity:  0.8;
+}
+
+
+.color-red{
+    color: #d50000 !important;
+}
+
+
+.color-red-bg{
+    background-color: #d50000 !important;
+    border-radius: 30px !important;
+}
+
+
+.aboutSection-bg{
+    background-color:#e6ebef;
+    opacity:  0.8 !important;
+}
+
+
+
+.section-heading{
+    font-size: 3em;
+    font-weight: 600;
+}
+
+
+.gallerySection-bg{
+    background-color: #e6ebef;
+}
+
+
+.projects-br-radius{
+    border-radius: 20px;
+}
+
+
+.gallery-br-radius{
+    border-radius: 20px;
+}
+
+
+.footer-bg{
+    background-color: #2A2A2A;
+}
