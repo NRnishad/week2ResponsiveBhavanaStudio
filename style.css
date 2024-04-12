@@ -4,10 +4,22 @@
 }
 
 
+@media (max-width:1000px) {
+    .gallerySection-bg{
+        background-color: #6f6767 !important;
+    }
+}
+
 .bg-nav{
     background-color: #3A3A3A;
     font-size: 1.5rem;
     opacity:  0.8;
+}
+
+
+.toggle-brd{
+    border: none !important;
+
 }
 
 
@@ -39,6 +51,10 @@
     background-color: #e6ebef;
 }
 
+#projectsBtn:hover{
+        background-color: wheat !important;
+
+}
 
 .projects-br-radius{
     border-radius: 20px;
@@ -48,6 +64,12 @@
 .gallery-br-radius{
     border-radius: 20px;
 }
+
+#galleryBtn:hover{
+    background-color: wheat !important;
+
+}
+
 
 
 .footer-bg{
